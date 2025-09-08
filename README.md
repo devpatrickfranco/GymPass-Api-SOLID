@@ -30,7 +30,8 @@ Este projeto foi desenvolvido seguindo boas práticas de desenvolvimento de soft
 - [X] Deve ser possivel o usuario realizar check-in em uma academia;
 - [X] Deve ser possivel validar o check-in de um usuario;
 - [X] Deve ser possivel cadastrar uma academia
-- [ ] Deve ser possivel o usuario caga 
+- [X] Deve ser possivel o usuario caga
+- [ ] 
 ## RNs (Regras de negocio)
 
 - [X] O usuario não deve poder se cadastrar com um email duplicado;
